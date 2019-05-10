@@ -8,6 +8,6 @@ This repo records all my daily progress of how I start off learning Statistics a
 - *Supplement:* https://pan.baidu.com/s/1dCV6rrOWZU-deKxAoectGA
 
 # Day 1:
-- **Objective:**(2 days)
+- **Objective:** (2 days)
   - 1. Basics of Statistics, Binomial Distribution, Poisson Distribution
   - 2. Law of Large Numbers, Gaussian Distribution
