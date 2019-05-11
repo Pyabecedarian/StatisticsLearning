@@ -9,5 +9,9 @@ This repo records all my daily progress of how I start off learning Statistics a
 
 # Day 1:
 - **Objective:** (2 days)
-  - 1. Basics of Statistics, Binomial Distribution, Poisson Distribution
-  - 2. Law of Large Numbers, Gaussian Distribution
+  - 1. Basic concepts in Statistics
+    - Mean
+    - Median
+    - Mode
+  - 2. Binomial Distribution, Poisson Distribution
+  - 3. Law of Large Numbers, Gaussian Distribution
