@@ -11,13 +11,13 @@ This repo records all my daily progress of how I start off learning Statistics a
 [Assignments Day1-2](https://pyabecedarian.github.io/StatisticsLearning/Day1-2.html)  
 
 ### Objective: (2 days)
-  1. Basic concepts in Statistics  
+  - 1. Basic concepts in Statistics  
     - Mean  
     - Median  
     - Mode  
-  2. Expected Value, Variance, Non-bias Variance
-  3. Binomial Distribution
-  4. Poisson Distribution
-  5. Law of Large Numbers  
-  6. Gaussian Distribution  
-  7. Z-Score, Empirical Rule (aka. 68-95-99.7)  
+  - 2. Expected Value, Variance, Non-bias Variance
+  - 3. Binomial Distribution
+  - 4. Poisson Distribution
+  - 5. Law of Large Numbers  
+  - 6. Gaussian Distribution  
+  - 7. Z-Score, Empirical Rule (aka. 68-95-99.7)  
