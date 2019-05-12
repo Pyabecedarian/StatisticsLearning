@@ -11,7 +11,7 @@ This repo records all my daily progress of how I start off learning Statistics a
 [Assignments Day1-2](https://pyabecedarian.github.io/StatisticsLearning/Day1-2.html)  
 
 ### Objective: (2 days)
-  1. Basic concepts in Statistics
+  1. Basic concepts in Statistics  
     - Mean
     - Median
     - Mode
