@@ -12,9 +12,9 @@ This repo records all my daily progress of how I start off learning Statistics a
 
 ### Objective: (2 days)
   1. Basic concepts in Statistics
-  - Mean
-  - Median
-  - Mode
+    - Mean
+    - Median
+    - Mode
   2. Expected Value, Variance, Non-bias Variance
   3. Binomial Distribution
   4. Poisson Distribution
