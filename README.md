@@ -7,7 +7,7 @@ This repo records all my daily progress of how I start off learning Statistics a
 - **Main:** http://open.163.com/special/Khan/khstatistics.html
 - *Supplement:* https://pan.baidu.com/s/1dCV6rrOWZU-deKxAoectGA
 
-# Day 1:
+# [Day 1:] (https://pyabecedarian.github.io/StatisticsLearning/Day1-2.html "Day 1-2")
 - **Objective:** (2 days)
   - 1. Basic concepts in Statistics
     - Mean
