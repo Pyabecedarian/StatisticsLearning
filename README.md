@@ -8,12 +8,13 @@ This repo records all my daily progress of how I start off learning Statistics a
 - *Supplement:* [ebook-《深入浅出统计学》](https://pan.baidu.com/s/1dCV6rrOWZU-deKxAoectGA)
 
 # Day 1-2:
-[Assignments Day1-2](https://pyabecedarian.github.io/StatisticsLearning/Day1-2.html)
-- **Objective:** (2 days)
+[Assignments Day1-2](https://pyabecedarian.github.io/StatisticsLearning/Day1-2.html)  
+
+### Objective: (2 days)
   1. Basic concepts in Statistics
-    - Mean
-    - Median
-    - Mode
+  - Mean
+  - Median
+  - Mode
   2. Expected Value, Variance, Non-bias Variance
   3. Binomial Distribution
   4. Poisson Distribution
