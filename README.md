@@ -21,3 +21,12 @@ This repo records all my daily progress of how I start off learning Statistics a
   - Law of Large Numbers  
   - Gaussian Distribution  
   - Z-Score, Empirical Rule (aka. 68-95-99.7)  
+
+# Day 3:
+[Assignment Day3](https://pyabecedarian.github.io/StatisticsLearning/Day3.html)  
+
+### Objective: (1 day)
+  - The Central Limit Theorem
+  - Skewness
+  - Kurtosis
+  - Confidence Interva
