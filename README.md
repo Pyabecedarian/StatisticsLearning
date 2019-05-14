@@ -32,3 +32,17 @@ This repo records my progress of learning Statistics in facing "7-Days Statistic
   - Skewness
   - Kurtosis
   - Confidence Interval
+
+# Day 4:
+
+#### Objective:(2 Days)
+- Sampling Distribution with small Sample Size(n<30)
+- t-Distribution
+- two sided / one sided
+- degree of freedom
+- Hypothesis Test
+- Null Hypothesis( 𝐻0 )
+- Alternative Hypothesis( 𝐻1 )
+- One-tailed / Two-tailed Test
+- P-Value
+- Z-Statistic & t-Statistic
