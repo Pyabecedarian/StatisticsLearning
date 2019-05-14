@@ -1,7 +1,7 @@
 # StatisticsLearning
 Statistics is one of the most important mathematicl tools required by Machine Learning. A famous saying is that Machine Learning and Big Data Analysis is all about Statistics under the hood. 
 
-This repo records my progress of learning Statistics in facing "Statistics in 7-Days!". The path and daily tasks are as follows:
+This repo records my progress of learning Statistics in facing "7-Days Statistics" Campaign. The path and daily tasks are as follows:
 
 **Path & Tasks:**  [datawhalechina/Statistical](https://github.com/datawhalechina/Statistical)
 
