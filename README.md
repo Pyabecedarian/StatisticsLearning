@@ -1,5 +1,7 @@
 # StatisticsLearning
-This repo records all my daily progress of how I start off learning Statistics along with "Datawhale", a non-profit open source learning community, which encourage members to learn basic knowledge of AI, with highly self-driven ability.
+Statistics is one of the most important mathematicl tools required by Machine Learning. A famous saying is that Machine Learning and Big Data Analysis is all about Statistics under the hood. 
+
+This repo records my progress of learning Statistics in facing "Statistics in 7-Days!". The path and daily tasks are as follows:
 
 **Path & Tasks:**  [datawhalechina/Statistical](https://github.com/datawhalechina/Statistical)
 
@@ -29,4 +31,4 @@ This repo records all my daily progress of how I start off learning Statistics a
   - The Central Limit Theorem
   - Skewness
   - Kurtosis
-  - Confidence Interva
+  - Confidence Interval
