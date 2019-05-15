@@ -13143,7 +13143,11 @@ div#notebook {
 <li><p>P-Value</p>
 </li>
 <li>Z-Statistic &amp; t-Statistic</li>
-<li></li>
+<li>Difference of Random Variables<ul>
+<li>Expected Value</li>
+<li>Variance</li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -13185,13 +13189,39 @@ div#notebook {
 as significant as the one observed would be obtained assuming the Null Hypothesis is true(by using Law of Large Number). Then compare the p-value with some pre-defined "Significance Value $\alpha$", if $p \leq \alpha$, that the observed effect is statistically significant, reject $H_0$ and accept $H_1$.</p>
 <h4 id="Steps:">Steps:<a class="anchor-link" href="#Steps:">&#182;</a></h4><ul>
 <li>Formulate the Null Hypothesis $H_0$ that the observation has no effect to population, it purly results by chance; And the Alternative Hypothesis $H_1$ that the observation do affect the results.</li>
-<li>Identipy a test Sample</li>
+<li>Identipy a test Sample, compute $\overline{X} \, and \, S_{n-1}$</li>
 <li>compute p-value $p$</li>
-<li>compare $p$ and significance level $\alpha$</li>
+<li>compare $p$ and $\alpha$ or </li>
 <li>reject or accept</li>
 </ul>
 <h4 id="One-tailed-or-Two-tailed">One-tailed or Two-tailed<a class="anchor-link" href="#One-tailed-or-Two-tailed">&#182;</a></h4><p><em>Consider one side or both side</em></p>
 <h4 id="Z-statistic--&amp;--t-statistic">Z-statistic  &amp;  t-statistic<a class="anchor-link" href="#Z-statistic--&amp;--t-statistic">&#182;</a></h4><p>Both are the same thing except z-statistic are used when the Sample Size is greater than 30(such case the sampling distribution is Gaussian Distribution, otherwise a t-Distribution in small Sample Size case).</p>
+<p>$\frac{\overline{X} - \mu}{\sigma} = \frac {\overline{X} - \mu}{\frac{S_{n-1}}{\sqrt{n}}} = \begin {cases} Z-statistic \quad n \geq 30 \\ 
+t-statistic \quad n \leq 30 \end {cases}$</p>
+<h4 id="Type-1-Error">Type 1 Error<a class="anchor-link" href="#Type-1-Error">&#182;</a></h4><p><em>Rejecting the $H_0$ even though it is true.</em><br>
+Assuming $H_0$ is true, one can determine the threshold (p) of getting an example been that extreme or more, then we can say the probability of null hypothesis could still happen is $p$.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Difference-of-Random-Variables">Difference of Random Variables<a class="anchor-link" href="#Difference-of-Random-Variables">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let $Z = X - Y, \quad where \: \text{ X, Y are RV. }$<br>
+thus Z is also a RV., and:</p>
+<p>$\qquad E(Z) = E(X) - E(Y) = \mu_{\overline{Z}}$</p>
+<p>$\qquad Var(Z)^2 = Var(X) + Var(Y) = \sigma_{\overline{X}}^2 + \sigma_{\overline{Y}}^2$</p>
+<p>Think of $X$ and $Y$ as Samples from population, then $Z$ is also a Sample, thus the Sampling Distribution of $\mu_{\overline{Z}}$ is normal, while</p>
+<p>$\qquad \mu_{\overline{Z}} = \mu_{\overline{X}} - \mu_{\overline{Y}}$</p>
+<p>$\qquad \begin {align} \sigma_{\overline{Z}} &amp;= \sqrt {\sigma_{\overline{X}}^2 + \sigma_{\overline{Y}}^2}  \\ 
+&amp;= \sqrt {\frac{S_X^2}{n} + \frac{S_Y^2}{m}} \end{align}$</p>
 
 </div>
 </div>
