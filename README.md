@@ -33,7 +33,7 @@ This repo records my progress of learning Statistics in facing "7-Day Statistics
   - Kurtosis
   - Confidence Interval
 
-# Day 4:
+# Day 4-5:
 [Assignment Day4-5](https://pyabecedarian.github.io/StatisticsLearning/Day4-5.html)
 
 #### Objective:(2 Days)
