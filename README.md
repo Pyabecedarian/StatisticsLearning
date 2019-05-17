@@ -48,3 +48,19 @@ This repo records my progress of learning Statistics in facing "7-Day Statistics
 - P-Value
 - Z-Statistic & t-Statistic
 - Epected Value and Variance of the Difference of Random Variables
+
+# Day 6-7:
+[Assignment Day6-7](https://pyabecedarian.github.io/StatisticsLearning/Day6-7.html)
+
+#### Objective:(2 Days)
+- Linear Regression
+  - Squared Error
+  - Coefficient of Determination
+- Covariance
+- 𝜒2  Distribution
+- 𝜒2  Hypothesis Test
+  - 𝜒2  statistic
+- Analysis of Variance
+  - SST
+  - SSW
+  - SSB
