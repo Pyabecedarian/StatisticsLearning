@@ -105,4 +105,3 @@ venv.bak/
 
 # jupyter notebook checkpoint
 .ipynb_checkpoints/
-./source
