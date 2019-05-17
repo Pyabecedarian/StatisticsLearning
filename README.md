@@ -60,7 +60,10 @@ This repo records my progress of learning Statistics in facing "7-Day Statistics
 - 𝜒2  Distribution
 - 𝜒2  Hypothesis Test
   - 𝜒2  statistic
+- Contingency Table
 - Analysis of Variance
   - SST
   - SSW
   - SSB
+- F-Statistic
+- Causality & Correlation
